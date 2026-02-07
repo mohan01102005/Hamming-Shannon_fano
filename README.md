@@ -43,8 +43,11 @@ print(f"Variance is : {var}")
 
 
 # Output
-
-![WhatsApp Image 2026-02-07 at 2 21 15 PM (1)](https://github.com/user-attachments/assets/cc652801-a52e-410e-9125-e11117848474)
+Average Codeword Length is : 2.625
+Entropy is : 2.625
+Efficiency is : 1.0
+Redudancy is : 0.0
+Variance is : 0.484
 
 # Results:
 Hence the average code word length, entropy, variance, redundancy, and efficiency are found for  {0.55,0.15,0.15,0.1,0.05} usinf huffman
