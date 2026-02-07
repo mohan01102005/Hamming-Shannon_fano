@@ -36,9 +36,11 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 
 # calculations
-<img width="973" height="1140" alt="image" src="https://github.com/user-attachments/assets/4382a79e-3401-4110-9e3c-3bef175301d8" />
 
-<img width="804" height="1280" alt="image" src="https://github.com/user-attachments/assets/8912f2ee-ff08-4036-a5bb-3c5607dd7624" />
+![WhatsApp Image 2026-02-07 at 2 21 15 PM](https://github.com/user-attachments/assets/cdb29ad9-0d18-4bc1-8288-ee92f6a6577d)
+
+![WhatsApp Image 2026-02-07 at 2 21 15 PM (1)](https://github.com/user-attachments/assets/cc652801-a52e-410e-9125-e11117848474)
+
 
 # Output
 <img width="324" height="144" alt="Screenshot 2025-09-19 092450" src="https://github.com/user-attachments/assets/df27fe19-79fc-403d-80af-5c222a08ef04" />
