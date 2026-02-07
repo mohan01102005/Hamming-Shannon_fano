@@ -43,8 +43,8 @@ print(f"Variance is : {var}")
 
 
 # Output
-<img width="324" height="144" alt="Screenshot 2025-09-19 092450" src="https://github.com/user-attachments/assets/df27fe19-79fc-403d-80af-5c222a08ef04" />
 
+![WhatsApp Image 2026-02-07 at 2 21 15 PM (1)](https://github.com/user-attachments/assets/cc652801-a52e-410e-9125-e11117848474)
 
 # Results:
 Hence the average code word length, entropy, variance, redundancy, and efficiency are found for  {0.55,0.15,0.15,0.1,0.05} usinf huffman
